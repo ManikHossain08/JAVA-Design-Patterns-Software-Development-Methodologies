@@ -1,4 +1,4 @@
-# Designing and Implementing (Some of) Dungeon and Dragons Character Classes using JAVA design Patterns
+# Designing and Implementing (Some of) Dungeon and Dragons Character Classes using various JAVA Design Patterns
 
 # Problem Statement
 
