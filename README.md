@@ -33,6 +33,7 @@ The given code provides examples of character classes (e.g., Ranger). Innate abi
 -	Intelligence: inquisitive, studious, simple, forgetful
 -	Wisdom: good judgement, empathy, foolish, oblivious
 -	Charisma: leadership, confidence, timid, awkward
+
 Redesign the given code to allow adding abilities to the characters so that new “values” for innate abilities could be added later without having to modify (much) the implementation of the character classes (e.g., a new Constitution: invincible). Before implementing your design, justify your choice in the space below (no more). Then, implement your design based on the given code.
 
  
